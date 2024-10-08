@@ -5,6 +5,7 @@
 }
 body{
     background-color: hsl(212, 45%, 89%);
+        box-sizing: border-box;
 
 }
 .main {
